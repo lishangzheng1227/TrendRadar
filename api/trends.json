@@ -1,37 +1,7 @@
 {
-  "generated_at": "2025-10-18T13:27:47.582215+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2025-10-18T13:35:17.080581+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "天猫 京东 拼多多 得物",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克金龙中国指数初步收跌0.2%，本周累涨约1.7%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。",
-          "url": "https://wallstreetcn.com/livenews/2989893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.14%，报8165.92点，本周累计上涨1.83%。 热门中概股里，新东方涨2.3%，阿里巴巴涨1.2%，拼多多百胜中国、京东涨约1%，蔚来和台积电则跌超1%，文远知行跌4.2%，小马智行跌5.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.79%，中概互联网指数ETF（KWEB）收跌0.10%，富时中国3倍做多ETF（YINN）收跌0.10%。 XtrackersHarvest中证50（ASHS）收跌1.76%，德银嘉实沪深300指数ETF（ASHR）收跌1.22%，中国ETF-iShares MSCI（MCHI）收跌0.14%。 本周，MCHI反弹3.13%（上周跌7.75%），KWEB反弹2.79%（上周跌9.92%），ASHR反弹2.51%（上周跌4.46%），CQQQ反弹0.13%（上周跌9.91%），ASHS跌0.51%（上周跌4.58%）。",
-          "url": "https://wallstreetcn.com/livenews/2989893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T00:47:23.182877+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-20T01:37:54.231607+08:00",
+  "total_titles_processed": 331,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7562081121614266410/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 01时37分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T12:45:10.827106+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2025-10-20T13:41:01.954365+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "华为将正式发布鸿蒙操作系统6",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 07时32分]"
+        },
+        {
+          "title": "华为将发布鸿蒙操作系统6 鸿蒙生态链有望站上风口",
+          "url": "https://www.cls.cn/detail/2173901",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         }
       ]
     }

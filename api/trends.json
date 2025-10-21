@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-10-21T23:41:44.414021+08:00",
-  "total_titles_processed": 1925,
+  "generated_at": "2025-10-22T00:46:54.663515+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "史上最贵iPhone Air发布",
-          "url": "https://www.toutiao.com/trending/7563542530688552489/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 15时36分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

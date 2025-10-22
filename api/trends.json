@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T22:55:34.061969+08:00",
-  "total_titles_processed": 1912,
+  "generated_at": "2025-10-22T23:45:16.527782+08:00",
+  "total_titles_processed": 1986,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时47分 ~ 22时55分]"
+          "appearance_count": 7,
+          "time_info": "[18时47分 ~ 23时45分]"
         },
         {
           "title": "华为鸿蒙6正式发布",
@@ -28,11 +29,12 @@
             8,
             4,
             14,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时47分 ~ 22时55分]"
+          "appearance_count": 7,
+          "time_info": "[18时47分 ~ 23时45分]"
         },
         {
           "title": "如何评价华为即将发布的 X3PRO 日照金山路由器？",
@@ -40,11 +42,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时52分 ~ 22时55分]"
+          "appearance_count": 5,
+          "time_info": "[21时52分 ~ 23时45分]"
         },
         {
           "title": "华为发布鸿蒙星河互联架构",

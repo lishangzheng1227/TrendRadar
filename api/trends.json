@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T19:33:27.461813+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2025-10-22T21:53:07.157057+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为鸿蒙6正式发布",
@@ -13,22 +13,35 @@
           "source": "今日头条",
           "ranks": [
             8,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时47分 ~ 21时53分]"
         },
         {
           "title": "华为鸿蒙 HarmonyOS 6 正式发布，与之前的版本相比，鸿蒙 6 有哪些新的特性和改进？",
           "url": "https://www.zhihu.com/question/1964362689997398871",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时47分 ~ 21时53分]"
+        },
+        {
+          "title": "如何评价华为即将发布的 X3PRO 日照金山路由器？",
+          "url": "https://www.zhihu.com/question/1964097156983002944",
+          "source": "知乎",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时33分]"
+          "time_info": "[21时52分 ~ 21时53分]"
         },
         {
           "title": "华为发布鸿蒙星河互联架构",

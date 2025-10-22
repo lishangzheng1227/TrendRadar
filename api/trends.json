@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-10-22T14:57:03.885820+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2025-10-22T15:43:06.026775+08:00",
+  "total_titles_processed": 1270,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iPhone 华为 OPPO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为发布鸿蒙星河互联架构",
+          "url": "https://wallstreetcn.com/livenews/2991751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

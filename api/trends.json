@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T01:36:08.072958+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2025-10-23T02:55:52.210523+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1964362689997398871",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 02时55分]"
         },
         {
           "title": "华为鸿蒙6正式发布",
@@ -24,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 02时55分]"
         }
       ]
     }

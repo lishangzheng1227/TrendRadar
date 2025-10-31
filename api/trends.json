@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-10-31T23:44:27.590617+08:00",
-  "total_titles_processed": 1979,
+  "generated_at": "2025-11-01T00:57:35.753883+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果(AAPL.O)CEO库克：iPhone Air在中国的发布延迟是导致第四财季中国区销售额下滑的“主要原因”。",
-          "url": "https://flash.jin10.com/detail/20251031043441895800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

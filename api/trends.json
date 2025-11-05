@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-05T17:49:32.275146+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2025-11-05T18:52:02.118391+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国足下次正式比赛为2027年亚洲杯",
+          "url": "https://www.toutiao.com/trending/7569178556752940582/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 18时52分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

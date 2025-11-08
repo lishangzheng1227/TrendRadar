@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T03:25:22.862456+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-11-09T04:32:59.094274+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "华为将发布新款手表 售价6499元起",
@@ -26,11 +26,12 @@
           "ranks": [
             10,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 03时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时32分]"
         },
         {
           "title": "华为将发布新款手表 售价6499元起",
@@ -41,8 +42,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 03时25分]"
+          "appearance_count": 3,
+          "time_info": "[02时47分 ~ 04时32分]"
         }
       ]
     }

@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-08T19:27:30.254319+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2025-11-08T21:09:39.366691+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
       "match_count": 3,
       "titles": [
+        {
+          "title": "华为将发布新款手表 售价6499元起",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E6%89%8B%E8%A1%A8+%E5%94%AE%E4%BB%B76499%E5%85%83%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时09分]"
+        },
         {
           "title": "华为将发布新款手表 售价6499元起",
           "url": "https://www.toutiao.com/trending/7569866088482144298/",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时31分 ~ 19时27分]"
-        },
-        {
-          "title": "华为将发布新款手表 售价6499元起",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E6%89%8B%E8%A1%A8+%E5%94%AE%E4%BB%B76499%E5%85%83%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时27分]"
         },
         {
           "title": "华为将于11月发布新款非凡探索手表",

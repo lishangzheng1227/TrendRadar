@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-08T16:43:28.921295+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2025-11-08T17:32:15.740921+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "华为将发布新款手表 售价6499元起",
+          "url": "https://www.toutiao.com/trending/7569866088482144298/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
         {
           "title": "华为将于11月发布新款非凡探索手表",
           "url": "https://www.toutiao.com/trending/7569866088482144298/",
@@ -14,7 +25,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         }

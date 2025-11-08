@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T02:47:38.381183+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2025-11-09T03:25:22.862456+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 03时25分]"
         },
         {
           "title": "华为将发布新款手表 售价6499元起",
@@ -29,19 +29,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 03时25分]"
         },
         {
           "title": "华为将发布新款手表 售价6499元起",
           "url": "https://www.toutiao.com/trending/7569866088482144298/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时47分 ~ 03时25分]"
         }
       ]
     }

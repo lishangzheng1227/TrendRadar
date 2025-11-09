@@ -1,58 +1,7 @@
 {
-  "generated_at": "2025-11-09T23:32:32.161669+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2025-11-10T00:43:02.285041+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "华为将发布新款手表 售价6499元起",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E6%89%8B%E8%A1%A8+%E5%94%AE%E4%BB%B76499%E5%85%83%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            6,
-            7,
-            9,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 11时38分]"
-        },
-        {
-          "title": "华为新款非凡探索手表WATCH Ultimate 2将于11月发布，首创腕部设备卫星语音短信能力，售价6499元起。",
-          "url": "https://wallstreetcn.com/livenews/3001594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时30分]"
-        },
-        {
-          "title": "华为将发布新款手表 售价6499元起",
-          "url": "https://www.toutiao.com/trending/7569866088482144298/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            24,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时47分 ~ 07时30分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

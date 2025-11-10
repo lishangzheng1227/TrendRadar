@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T06:40:25.813633+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2025-11-11T07:33:29.864923+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股涨跌互现，创业板跌0.9%，大消费集体爆发，港股全线收涨，恒指涨超1%",
+          "url": "https://wallstreetcn.com/articles/3759020",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时33分"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T22:44:27.439314+08:00",
-  "total_titles_processed": 1850,
+  "generated_at": "2025-11-11T23:42:26.202887+08:00",
+  "total_titles_processed": 1932,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             6,
             11,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时47分 ~ 22时44分]"
+          "appearance_count": 8,
+          "time_info": "[18时47分 ~ 23时42分]"
         },
         {
           "title": "苹果推迟发布下一代iPhone Air。（The Information）",

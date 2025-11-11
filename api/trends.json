@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-11T17:40:49.821970+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2025-11-11T18:48:09.928630+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "iPhonePocket发布",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhonePocket%E5%8F%91%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26stream_entry_id%3D31%26q%3D%2523iPhonePocket%25E5%258F%2591%25E5%25B8%2583%2523%26cate%3D5001%26band_rank%3D1%26pos%3D0%26dgr%3D0%26display_time%3D1762857852%26pre_seqid%3D176285785207903233359&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
         {
           "title": "苹果推迟发布下一代iPhone Air。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3002301",

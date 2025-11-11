@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T01:40:21.424527+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2025-11-12T02:54:02.982162+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhonePocket%E5%8F%91%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26band_rank%3D15%26q%3D%2523iPhonePocket%25E5%258F%2591%25E5%25B8%2583%2523%26dgr%3D0%26stream_entry_id%3D31%26cate%3D5001%26pos%3D16%26realpos%3D15%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1762880012%26pre_seqid%3D176288001252202531989&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 02时54分]"
         }
       ]
     }

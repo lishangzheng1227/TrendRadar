@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T13:41:54.787729+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2025-11-12T14:55:55.518913+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "iPhonePocket发布",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时54分 ~ 03时29分]"
+        },
+        {
+          "title": "华为发布“十大发明”评选结果",
+          "url": "https://www.cls.cn/detail/2198080",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         }
       ]
     }

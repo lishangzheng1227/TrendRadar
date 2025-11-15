@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T21:26:18.941900+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2025-11-15T22:18:32.699936+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             17,
             19,
             22,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 21时26分]"
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 22时18分]"
         },
         {
           "title": "东风与华为合作的汽车品牌将于11月20日发布",
@@ -32,11 +33,12 @@
             10,
             12,
             15,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 21时26分]"
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 22时18分]"
         }
       ]
     }

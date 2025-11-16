@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-16T20:39:21.339061+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2025-11-16T21:26:06.168053+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
       "match_count": 4,
       "titles": [
-        {
-          "title": "东风与华为合作的汽车品牌将于11月20日发布",
-          "url": "https://wallstreetcn.com/livenews/3005173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 07时19分]"
-        },
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
           "url": "https://www.cls.cn/detail/2201789",
@@ -29,8 +18,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 20时39分]"
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 21时26分]"
+        },
+        {
+          "title": "东风与华为合作的汽车品牌将于11月20日发布",
+          "url": "https://wallstreetcn.com/livenews/3005173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 07时19分]"
         },
         {
           "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",

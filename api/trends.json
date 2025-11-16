@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T18:21:04.664828+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2025-11-16T19:16:31.453701+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时24分 ~ 07时19分]"
         },
         {
+          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
+          "url": "https://www.cls.cn/detail/2201789",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 19时16分]"
+        },
+        {
           "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",
           "url": "https://wallstreetcn.com/livenews/3005267",
           "source": "华尔街见闻-快讯",
@@ -32,27 +45,16 @@
           "time_info": "[15时20分 ~ 17时20分]"
         },
         {
-          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
-          "url": "https://www.cls.cn/detail/2201789",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 18时21分]"
-        },
-        {
           "title": "华为，AI突破将发布",
           "url": "https://wallstreetcn.com/articles/3759477",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 19时16分]"
         }
       ]
     }

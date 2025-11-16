@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T19:16:31.453701+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2025-11-16T20:39:21.339061+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时39分]"
         },
         {
           "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",

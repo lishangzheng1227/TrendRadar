@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T20:44:35.014148+08:00",
-  "total_titles_processed": 1653,
+  "generated_at": "2025-11-17T21:33:57.720295+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "OPPO 发布全新一代 Reno15 系列手机，2999元起",
+          "url": "https://wallstreetcn.com/livenews/3005878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         }
       ]
     }

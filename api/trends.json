@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T12:28:34.755671+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2025-11-17T13:22:49.990729+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 13时22分]"
         },
         {
           "title": "余承东官宣华为Mate80发布会",
@@ -37,11 +37,12 @@
           "ranks": [
             7,
             5,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 13时22分]"
         },
         {
           "title": "华为，AI突破将发布",
@@ -52,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时22分]"
         },
         {
           "title": "华为终端宣布，华为Mate 80系列、Mate X7及全场景新品发布会将于11月25日14:30举行。",
@@ -62,7 +63,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         }

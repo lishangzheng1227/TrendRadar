@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T15:22:01.719498+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2025-11-17T16:31:42.836160+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时18分 ~ 14时34分]"
+        },
+        {
+          "title": "华为将发布AI领域突破性技术 国产算力投资机遇凸显",
+          "url": "https://www.cls.cn/detail/2201963",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "华为终端宣布，华为Mate 80系列、Mate X7及全场景新品发布会将于11月25日14:30举行。",

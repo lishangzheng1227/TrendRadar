@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T13:22:18.310778+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-11-18T14:32:40.506850+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "华为Mate80系列发布在即 新款麒麟芯片或将亮相",
@@ -16,8 +16,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时32分]"
+        },
+        {
+          "title": "华为乾崑x东风全新品牌即将发布",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91x%E4%B8%9C%E9%A3%8E%E5%85%A8%E6%96%B0%E5%93%81%E7%89%8C%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26band_rank%3D20%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D21%26lcate%3D5001%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26q%3D%2523%25E5%258D%258E%25E4%25B8%25BA%25E4%25B9%25BE%25E5%25B4%2591x%25E4%25B8%259C%25E9%25A3%258E%25E5%2585%25A8%25E6%2596%25B0%25E5%2593%2581%25E7%2589%258C%25E5%258D%25B3%25E5%25B0%2586%25E5%258F%2591%25E5%25B8%2583%2523%26dgr%3D0%26display_time%3D1763447310%26pre_seqid%3D176344731044702810560136&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     },
@@ -31,11 +42,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时32分]"
         }
       ]
     }

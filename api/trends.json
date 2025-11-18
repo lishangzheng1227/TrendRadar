@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T14:32:40.506850+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-11-18T15:21:41.006892+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 15时21分]"
         },
         {
           "title": "华为乾崑x东风全新品牌即将发布",
@@ -26,7 +26,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         }
@@ -43,11 +43,12 @@
           "ranks": [
             25,
             16,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 15时21分]"
         }
       ]
     }

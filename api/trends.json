@@ -1,7 +1,13 @@
 {
-  "generated_at": "2025-11-18T19:20:33.823273+08:00",
-  "total_titles_processed": 1707,
-  "failed_sources": [],
+  "generated_at": "2025-11-18T20:47:42.936765+08:00",
+  "total_titles_processed": 1780,
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "wallstreetcn-hot",
+    "bilibili-hot-search",
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",

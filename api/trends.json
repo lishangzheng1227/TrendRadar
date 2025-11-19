@@ -1,26 +1,7 @@
 {
-  "generated_at": "2025-11-19T23:24:20.689884+08:00",
-  "total_titles_processed": 1875,
+  "generated_at": "2025-11-20T00:29:46.786977+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为明年初或发布AI Data Platform产品",
-          "url": "https://wallstreetcn.com/livenews/3006902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时26分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

@@ -1,36 +1,7 @@
 {
-  "generated_at": "2025-11-21T23:20:34.481413+08:00",
-  "total_titles_processed": 2190,
+  "generated_at": "2025-11-22T00:28:08.429648+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待华为乾崑生态大会正式发布的启境汽车，能否像问界一样在境系列中引领潮头？",
-          "url": "https://www.zhihu.com/question/1974931934569325263",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时12分 ~ 13时22分]"
-        },
-        {
-          "title": "华为在上海举办“2025 AI容器应用落地与发展论坛”，会上正式发布并开源了创新AI容器技术Flex:ai",
-          "url": "https://wallstreetcn.com/livenews/3008623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

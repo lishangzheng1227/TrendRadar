@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-11-24T23:25:57.676249+08:00",
-  "total_titles_processed": 1835,
+  "generated_at": "2025-11-25T00:25:45.927910+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据华为终端微博消息，华为Mate80系列、Mate X7及全场景新品发布会将于11月25日14:30线上举行。",
-          "url": "https://wallstreetcn.com/livenews/3009404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

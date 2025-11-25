@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-25T14:35:17.335874+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2025-11-25T15:22:12.847515+08:00",
+  "total_titles_processed": 1297,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "华为发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
         {
           "title": "华为Mate80系列新品发布会",
           "url": "https://www.douyin.com/hot/2317178",
@@ -16,8 +27,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 15时22分]"
+        },
+        {
+          "title": "华为新品发布会",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%EF%BC%9A%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
         }
       ]
     },

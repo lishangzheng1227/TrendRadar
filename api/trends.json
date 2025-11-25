@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T21:35:52.496470+08:00",
-  "total_titles_processed": 1864,
+  "generated_at": "2025-11-25T22:22:47.130203+08:00",
+  "total_titles_processed": 1957,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[17时26分 ~ 22时22分]"
         },
         {
           "title": "华为发布会",
@@ -58,6 +58,19 @@
           "time_info": "[16时30分 ~ 17时26分]"
         },
         {
+          "title": "华为发布会直击：Mate 80系列4699元起、首搭载鸿蒙6系统，折叠屏Mate X7系列价格12999元起",
+          "url": "https://wallstreetcn.com/articles/3760080",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 22时22分]"
+        },
+        {
           "title": "华为新品发布会",
           "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%EF%BC%9A%E5%8D%8E%E4%B8%BA%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
           "source": "百度热搜",
@@ -67,18 +80,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时21分 ~ 16时31分]"
-        },
-        {
-          "title": "华为发布会直击：Mate 80系列4699元起、首搭载鸿蒙6系统，折叠屏Mate X7系列价格12999元起",
-          "url": "https://wallstreetcn.com/articles/3760080",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时35分]"
         },
         {
           "title": "如何评价华为 11 月 25 日发布的 Mate X7 ? 有哪些值得关注的信息？",

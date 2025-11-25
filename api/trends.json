@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T17:26:51.936075+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2025-11-25T18:27:05.372589+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 17时26分]"
+          "appearance_count": 10,
+          "time_info": "[13时22分 ~ 18时27分]"
         },
         {
           "title": "华为发布会",
@@ -59,11 +60,12 @@
           "url": "https://www.zhihu.com/question/1976673401511884162",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时26分 ~ 18时27分]"
         },
         {
           "title": "华为发布新款非凡大师手表 售价24999元",

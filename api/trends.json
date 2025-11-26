@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T07:20:45.118828+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2025-11-26T09:43:09.659744+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3760080",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时43分]"
         },
         {
           "title": "如何评价 11 月 25 日发布的华为 Mate 80 系列，不同版本如何选择？",
           "url": "https://www.zhihu.com/question/1976673401511884162",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 09时43分]"
         },
         {
           "title": "华为秋季全场景发布会落幕",

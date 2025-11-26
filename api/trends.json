@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T18:25:40.716763+08:00",
-  "total_titles_processed": 1592,
+  "generated_at": "2025-11-26T19:20:12.637514+08:00",
+  "total_titles_processed": 1683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为发布会直击：Mate 80系列4699元起、首搭载鸿蒙6系统，折叠屏Mate X7系列价格12999元起",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时30分 ~ 01时22分]"
+        },
+        {
+          "title": "华为正式发布 Mate80 系列，起售价 4699 元，如何看待该产品？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1976680122477220515",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
         }
       ]
     }

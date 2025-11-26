@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T20:47:13.298788+08:00",
-  "total_titles_processed": 1823,
+  "generated_at": "2025-11-26T21:36:21.458651+08:00",
+  "total_titles_processed": 1927,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 20时47分]"
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时36分]"
         },
         {
           "title": "华为秋季全场景发布会落幕",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T07:20:48.410467+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2025-11-27T09:41:35.865596+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "U17 亚洲杯预选赛，中国男足 12-0 小胜文莱，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1977132730241286665",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     }

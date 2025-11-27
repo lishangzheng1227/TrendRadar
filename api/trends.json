@@ -1,48 +1,7 @@
 {
-  "generated_at": "2025-11-27T23:22:53.679002+08:00",
-  "total_titles_processed": 1998,
+  "generated_at": "2025-11-28T00:27:48.546173+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为正式发布 Mate80 系列，起售价 4699 元，如何看待该产品？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1976680122477220515",
-          "source": "知乎",
-          "ranks": [
-            5,
-            11,
-            15,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "U17 亚洲杯预选赛，中国男足 12-0 小胜文莱，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1977132730241286665",
-          "source": "知乎",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时41分 ~ 11时13分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

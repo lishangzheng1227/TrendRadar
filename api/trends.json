@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T21:32:30.121370+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2025-11-28T22:22:15.289763+08:00",
+  "total_titles_processed": 1856,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            22
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "世界杯男篮预选赛，中国男篮 76-80 惜败韩国男篮，如何看待本场比赛？",
+          "url": "https://www.zhihu.com/question/1977808179644605116",
+          "source": "知乎",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时32分]"
+          "time_info": "[22时21分 ~ 22时22分]"
         }
       ]
     }

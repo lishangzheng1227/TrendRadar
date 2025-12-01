@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T10:01:09.257320+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2025-12-01T11:57:51.921338+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/1978577474729301330",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 11时57分]"
         },
         {
           "title": "2025 成都混团世界杯首轮国乒 8:1 击败对手，如何评价他们在比赛中的表现？",
           "url": "https://www.zhihu.com/question/1978465091742623044",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 11时57分]"
         }
       ]
     }

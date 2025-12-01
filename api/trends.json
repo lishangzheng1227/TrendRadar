@@ -1,7 +1,36 @@
 {
-  "generated_at": "2025-12-01T07:20:35.055606+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2025-12-01T10:01:09.257320+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "U17 男足亚预赛，中国国青 4-0 孟加拉国青，昂首杀进亚洲杯决赛圈，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1978577474729301330",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
+        },
+        {
+          "title": "2025 成都混团世界杯首轮国乒 8:1 击败对手，如何评价他们在比赛中的表现？",
+          "url": "https://www.zhihu.com/question/1978465091742623044",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 10时01分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-12-04T23:27:06.251752+08:00",
-  "total_titles_processed": 2026,
+  "generated_at": "2025-12-05T00:33:07.121459+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股三大股指涨跌互现 大消费走弱",
-          "url": "https://www.toutiao.com/trending/7578832589285441582/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时48分 ~ 20时49分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

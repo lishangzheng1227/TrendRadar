@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-06T23:20:17.259109+08:00",
-  "total_titles_processed": 1585,
+  "generated_at": "2025-12-07T00:26:10.210413+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "国际乒联混合团体世界杯，中国队 8-5 战胜日本，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1980629101996896446",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 18时21分]"
-        },
         {
           "title": "国际乒联混合团体世界杯，国乒 8-4 瑞典队，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/1980690727324312412",
@@ -27,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时19分 ~ 23时20分]"
+          "time_info": "[00时25分 ~ 00时26分]"
         }
       ]
     }

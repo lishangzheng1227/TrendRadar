@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T18:28:26.721138+08:00",
-  "total_titles_processed": 1771,
+  "generated_at": "2025-12-11T19:21:47.655526+08:00",
+  "total_titles_processed": 1838,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 19时21分]"
         },
         {
           "title": "华为新一代鸿蒙电脑发布",

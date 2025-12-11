@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-11T16:33:00.357286+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2025-12-11T17:29:04.831345+08:00",
+  "total_titles_processed": 1662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "苹果首款智能眼镜或明年发布：定位轻量穿戴、无独立算力 需与iPhone联动",
           "url": "https://www.cls.cn/detail/2226248",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 17时29分]"
+        },
+        {
+          "title": "华为新一代鸿蒙电脑发布",
+          "url": "https://www.toutiao.com/trending/7581836544119210003/",
+          "source": "今日头条",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
+          "time_info": "[17时28分 ~ 17时29分]"
         },
         {
           "title": "华为发布新一代鸿蒙电脑",

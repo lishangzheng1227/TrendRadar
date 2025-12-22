@@ -1,26 +1,7 @@
 {
-  "generated_at": "2025-12-22T23:25:17.809867+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2025-12-23T00:29:46.624353+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价华为新发布的 nova 15 系列？有哪些惊喜的功能和升级点？",
-          "url": "https://www.zhihu.com/question/1986444056365118255",
-          "source": "知乎",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时20分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

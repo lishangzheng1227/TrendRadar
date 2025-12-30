@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-12-30T23:25:08.550465+08:00",
-  "total_titles_processed": 1920,
+  "generated_at": "2025-12-31T00:31:12.315601+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为发布新年致辞，孟晚舟：战略聚焦，以质取胜",
-          "url": "https://wallstreetcn.com/livenews/3028466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

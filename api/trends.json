@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-01-10T23:22:14.957860+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2026-01-11T00:28:50.014913+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为联合云南建投物流发布智慧物流样板点 并启动“云链物流大模型”研发",
-          "url": "https://wallstreetcn.com/livenews/3034536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 22时21分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

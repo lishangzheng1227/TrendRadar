@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-01-11T12:52:02.828732+08:00",
-  "total_titles_processed": 706,
-  "failed_sources": [
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-01-11T13:27:48.868816+08:00",
+  "total_titles_processed": 735,
+  "failed_sources": [],
   "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

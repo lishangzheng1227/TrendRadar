@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T22:29:12.074574+08:00",
-  "total_titles_processed": 1776,
+  "generated_at": "2026-01-12T23:28:47.099600+08:00",
+  "total_titles_processed": 1863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "首胜！2026 年 U23 亚洲杯国足 1:0 战胜澳大利亚，如何评价本场比赛？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "2026 年 U23 亚洲杯 U23 国足 1:0 战胜澳大利亚 U23，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1993795557068665321",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     }

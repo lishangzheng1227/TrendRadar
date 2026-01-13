@@ -1,53 +1,22 @@
 {
-  "generated_at": "2026-01-13T23:28:44.572420+08:00",
-  "total_titles_processed": 2108,
+  "generated_at": "2026-01-14T00:35:35.162047+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "发布15年后iPhone 4突然爆火",
           "url": "https://www.toutiao.com/trending/7594676685853691398/",
           "source": "今日头条",
           "ranks": [
-            21,
-            23,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时27分 ~ 23时28分]"
-        },
-        {
-          "title": "投资公司Wedbush表示，2026年将成为苹果的关键之年。届时苹果将推出全新的Siri、达成与谷歌Gemini的新交易，并发布全新的iPhone 18系列。",
-          "url": "https://wallstreetcn.com/livenews/3035440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2026 年 U23 亚洲杯 U23 国足 1:0 战胜澳大利亚 U23，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1993795557068665321",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时31分]"
+          "time_info": "00时35分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T12:42:21.611984+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-01-13T13:27:53.941922+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "投资公司Wedbush表示，2026年将成为苹果的关键之年。届时苹果将推出全新的Siri、达成与谷歌Gemini的新交易，并发布全新的iPhone 18系列。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "发布15年后iPhone 4突然爆火",
+          "url": "https://www.toutiao.com/trending/7594676685853691398/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     },

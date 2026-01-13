@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T19:22:32.008030+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2026-01-13T20:52:40.004967+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             21,
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时27分 ~ 19时22分]"
+          "appearance_count": 9,
+          "time_info": "[13时27分 ~ 20时52分]"
         },
         {
           "title": "投资公司Wedbush表示，2026年将成为苹果的关键之年。届时苹果将推出全新的Siri、达成与谷歌Gemini的新交易，并发布全新的iPhone 18系列。",

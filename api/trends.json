@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T21:42:41.829682+08:00",
-  "total_titles_processed": 2033,
+  "generated_at": "2026-01-14T22:28:30.767522+08:00",
+  "total_titles_processed": 2105,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "U23 亚洲杯，U23 国足 0 比 0 泰国 U23，队史首次晋级淘汰赛，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1994845056302080639",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     }

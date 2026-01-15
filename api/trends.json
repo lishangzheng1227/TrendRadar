@@ -1,46 +1,7 @@
 {
-  "generated_at": "2026-01-15T23:28:47.522095+08:00",
-  "total_titles_processed": 2223,
+  "generated_at": "2026-01-16T00:38:25.890838+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "A股 上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股三大指数涨跌不一",
-          "url": "https://www.toutiao.com/trending/7595394704323756070/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "U23 亚洲杯，U23 国足 0 比 0 泰国 U23，队史首次晋级淘汰赛，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1994845056302080639",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时20分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

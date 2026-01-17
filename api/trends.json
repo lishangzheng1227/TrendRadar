@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-17T22:21:34.538460+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2026-01-17T23:22:12.438795+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "圣李昊！U23 亚洲杯淘汰赛，中国队点球大战淘汰乌兹别克斯坦跻身四强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1995940692124459289",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
         {
           "title": "中国 U23 男足与乌兹别克在亚洲杯 1/4 决赛中，能够拿下这场比赛吗？",
           "url": "https://www.zhihu.com/question/1995757645857044327",

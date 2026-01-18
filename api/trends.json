@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T09:59:52.279379+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-01-18T11:52:36.100105+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1995940692124459289",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 11时52分]"
         },
         {
           "title": "U23 亚洲杯，国足 VS 乌兹别克斯坦，如何评价本场比赛？",

@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-21T01:32:07.214115+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-01-21T02:40:22.919867+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "U23 亚洲杯半决赛，中国 vs 越南，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1996942837732827694",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

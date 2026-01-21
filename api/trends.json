@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T14:40:20.909680+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-01-21T15:31:40.464892+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1996942837732827694",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 14时40分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 15时31分]"
         },
         {
           "title": "U23 亚洲杯半决赛，中国 vs 越南，如何评价本场比赛？",

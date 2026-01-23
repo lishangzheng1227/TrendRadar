@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-01-23T23:29:00.288838+08:00",
-  "total_titles_processed": 2240,
+  "generated_at": "2026-01-24T00:34:09.282112+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "U23 亚洲杯半决赛，拜合拉木因捡球致对手染红，这在足球比赛中体现了怎样的战术或心理博弈？",
-          "url": "https://www.zhihu.com/question/1997587801072476868",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时24分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

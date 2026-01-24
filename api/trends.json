@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T01:20:09.823448+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-01-25T02:33:01.580545+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "U23 男足亚洲杯决赛，中国队下半场再丢两球，目前 0:4 落后，如何评价本场比赛？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 01时20分]"
+        },
+        {
+          "title": "U23 男足亚洲杯决赛，国足 0:4 不敌日本获得亚军，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1998499370979522168",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 02时33分]"
         },
         {
           "title": "U23 男足亚洲杯决赛，中国队 20 分钟两球落后，如何评价本场比赛？",

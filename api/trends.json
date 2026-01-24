@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-25T00:28:17.471311+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-25T01:20:09.823448+08:00",
+  "total_titles_processed": 353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "U23 男足亚洲杯决赛，中国队下半场再丢两球，目前 0:4 落后，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1998499370979522168",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
+        },
         {
           "title": "U23 男足亚洲杯决赛，中国队 20 分钟两球落后，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/1998499370979522168",
@@ -23,11 +34,12 @@
           "url": "https://www.zhihu.com/question/1998320572531176065",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 01时20分]"
         }
       ]
     }

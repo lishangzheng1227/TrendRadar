@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T13:31:24.607604+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-01-25T14:36:10.751273+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时32分 ~ 13时31分]"
+          "appearance_count": 14,
+          "time_info": "[02时32分 ~ 14时36分]"
         },
         {
           "title": "U23 男足亚洲杯决赛，中国队下半场再丢两球，目前 0:4 落后，如何评价本场比赛？",

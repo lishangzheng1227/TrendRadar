@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-02-02T23:39:56.694597+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2026-02-03T00:43:29.915862+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为云发布业界首个智慧病理云边端解决方案",
-          "url": "https://wallstreetcn.com/livenews/3047822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时28分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

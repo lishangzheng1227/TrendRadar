@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T06:28:58.005817+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-02-08T07:32:05.590237+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2026 乒乓球亚洲杯男子单打：林诗栋 3-4 户上隼辅，止步 8 强。如何评价本场比赛？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 06时28分]"
+        },
+        {
+          "title": "2026 乒乓球亚洲杯男子单打四分之一决赛林诗栋 3-4 户上隼辅，止步 8 强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2003592261804520571",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时32分]"
         }
       ]
     }

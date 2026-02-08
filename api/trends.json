@@ -1,48 +1,8 @@
 {
-  "generated_at": "2026-02-08T23:28:56.962850+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-02-09T00:34:57.056843+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "2026 乒乓球亚洲杯男子单打：林诗栋 3-4 户上隼辅，止步 8 强。如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2003592261804520571",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 06时28分]"
-        },
-        {
-          "title": "2026 乒乓球亚洲杯男子单打四分之一决赛林诗栋 3-4 户上隼辅，止步 8 强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2003592261804520571",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时32分]"
-        },
-        {
-          "title": "2026 海口亚洲杯女单决赛，孙颖莎 4-3 王曼昱夺冠，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2003914802620233331",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 23时28分]"
-        }
-      ]
-    },
     {
       "keyword_group": "iPhone 华为 OPPO",
       "match_count": 1,
@@ -52,12 +12,28 @@
           "url": "https://flash.jin10.com/detail/20260208220213770800",
           "source": "金十数据",
           "ranks": [
-            2,
-            10
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 23时28分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026 海口亚洲杯女单决赛，孙颖莎 4-3 王曼昱夺冠，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2003914802620233331",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     }

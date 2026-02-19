@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-02-19T23:52:01.794058+08:00",
-  "total_titles_processed": 1844,
+  "generated_at": "2026-02-20T00:56:26.611337+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌推出499美元Pixel 10a，在iPhone 17e发布前登场",
-          "url": "https://wallstreetcn.com/livenews/3056418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

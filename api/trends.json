@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T14:56:02.990684+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-03-03T15:44:32.061228+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
@@ -17,21 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时23分 ~ 14时56分]"
-        },
-        {
-          "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
-          "url": "https://www.cls.cn/detail/2300445",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时23分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时23分 ~ 15时44分]"
         },
         {
           "title": "iPhone17e正式发布",
@@ -41,7 +28,21 @@
             29,
             20,
             26,
-            22
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时23分 ~ 15时44分]"
+        },
+        {
+          "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
+          "url": "https://www.cls.cn/detail/2300445",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,

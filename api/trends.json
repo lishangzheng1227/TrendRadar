@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T02:55:24.690949+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-03-04T04:35:54.126692+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=iPhone17e%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 04时35分]"
         }
       ]
     }

@@ -1,50 +1,7 @@
 {
-  "generated_at": "2026-03-04T23:43:58.387778+08:00",
-  "total_titles_processed": 2111,
+  "generated_at": "2026-03-05T00:50:28.201596+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "iPhone17e正式发布",
-          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 07时29分]"
-        },
-        {
-          "title": "华为乾崑发布896线激光雷达",
-          "url": "https://www.toutiao.com/trending/7612975690631249970/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时39分]"
-        },
-        {
-          "title": "华为发布双光路图像级激光雷达",
-          "url": "https://wallstreetcn.com/livenews/3063448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

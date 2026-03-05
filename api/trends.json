@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-03-05T23:53:50.524809+08:00",
-  "total_titles_processed": 2038,
+  "generated_at": "2026-03-06T02:07:31.714851+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为发布AI数据平台，加速企业AI落地应用",
-          "url": "https://wallstreetcn.com/livenews/3063794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 03时39分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

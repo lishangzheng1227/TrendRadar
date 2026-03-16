@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-03-16T07:31:50.786101+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-03-16T10:35:44.367296+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "iPhone 华为 OPPO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为春季发布会定档3月23日",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%98%A5%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9A%E6%A1%A33%E6%9C%8823%E6%97%A5%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        }
+      ]
+    },
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
       "match_count": 1,

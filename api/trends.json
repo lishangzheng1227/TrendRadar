@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T16:36:46.154495+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-03-21T17:34:54.186928+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             4,
             5,
             12,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 16时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 17时34分]"
         },
         {
           "title": "华为将发布首款风冷散热手机",

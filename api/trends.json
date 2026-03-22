@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T18:31:40.155534+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-03-22T19:26:42.746852+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 18时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 19时26分]"
         },
         {
           "title": "华为重磅发布新一代算力芯片",
@@ -65,7 +66,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         }

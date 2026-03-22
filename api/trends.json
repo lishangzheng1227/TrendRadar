@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-23T02:41:02.258612+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-03-23T03:28:05.090638+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iPhone 华为 OPPO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为发布新一代算力芯片",
+          "url": "https://www.toutiao.com/trending/7619092765980868650/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 03时28分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

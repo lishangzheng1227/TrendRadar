@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T14:55:29.370404+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-03-22T15:40:41.330300+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "url": "https://wallstreetcn.com/articles/3768071",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 15时40分]"
         },
         {
           "title": "华为重磅发布新一代算力芯片",

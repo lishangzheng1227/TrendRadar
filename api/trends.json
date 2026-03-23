@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T16:59:35.224260+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-03-23T18:11:31.276875+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "微博",
           "ranks": [
             2,
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 16时59分]"
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 18时11分]"
+        },
+        {
+          "title": "华为春季发布会",
+          "url": "https://www.douyin.com/hot/2440642",
+          "source": "抖音",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 18时11分]"
         },
         {
           "title": "华为发布新一代算力芯片",
@@ -29,17 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 03时28分]"
-        },
-        {
-          "title": "华为春季发布会",
-          "url": "https://www.douyin.com/hot/2440642",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
         },
         {
           "title": "3月23日，华为发布Mate 80 Pro Max 风驰版，起售价为8499元。",

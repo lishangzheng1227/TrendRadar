@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T19:45:29.359346+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-03-23T21:12:23.414956+08:00",
+  "total_titles_processed": 1544,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             11,
             13,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时45分]"
+          "appearance_count": 4,
+          "time_info": "[16时59分 ~ 21时12分]"
         },
         {
           "title": "华为发布新一代算力芯片",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T07:35:39.508250+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-03-24T10:13:04.514238+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             5,
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 07时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 10时13分]"
         },
         {
           "title": "华为春季发布会",

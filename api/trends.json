@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-02T21:18:26.239354+08:00",
-  "total_titles_processed": 1712,
+  "generated_at": "2026-04-02T22:59:04.090706+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
       "match_count": 3,
       "titles": [
+        {
+          "title": "2026 澳门乒乓球世界杯女单 1/8 决赛，孙颖莎 4:2 蒯曼，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2023102665941411628",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 22时59分]"
+        },
         {
           "title": "伊朗将按计划在美国参加世界杯比赛",
           "url": "https://www.toutiao.com/trending/7622619005228498986/",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "2026 澳门乒乓球世界杯女单 1/8 决赛，孙颖莎 4:2 蒯曼，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2023102665941411628",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T22:59:04.090706+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2026-04-03T00:06:32.873729+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "2026 澳门乒乓球世界杯女单 1/8 决赛，孙颖莎 4:2 蒯曼，如何评价这场比赛？",
@@ -15,32 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时18分 ~ 22时59分]"
-        },
-        {
-          "title": "伊朗将按计划在美国参加世界杯比赛",
-          "url": "https://www.toutiao.com/trending/7622619005228498986/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 06时40分]"
-        },
-        {
-          "title": "2026 澳门世界杯，梁靖崑 2-3 不敌德国老将奥恰洛夫，止步小组赛，如何评价两人比赛的发挥？",
-          "url": "https://www.zhihu.com/question/2022800136879838030",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "00时06分"
         }
       ]
     }

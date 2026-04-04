@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T22:38:54.411111+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2026-04-04T23:35:01.020290+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "乒乓世界杯 1/8 决赛，王楚钦最终以 4 比 2 战胜小勒布伦，如何评价本场比赛？",
@@ -27,11 +27,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时38分]"
+          "appearance_count": 5,
+          "time_info": "[20时59分 ~ 23时35分]"
         },
         {
           "title": "2026 澳门世界杯女单 1/4 决赛，孙颖莎 4-3 险胜高达，如何评价本场比赛？",
@@ -59,6 +60,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时11分 ~ 16时43分]"
+        },
+        {
+          "title": "澳门乒乓球世界杯，王曼昱 4-2 桥本帆乃香晋级 4 强，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2023866765038413037",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时34分 ~ 23时35分]"
         }
       ]
     }

@@ -1,65 +1,22 @@
 {
-  "generated_at": "2026-04-04T23:35:01.020290+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-04-05T00:39:00.891596+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "乒乓世界杯 1/8 决赛，王楚钦最终以 4 比 2 战胜小勒布伦，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2023487705594565971",
-          "source": "知乎",
-          "ranks": [
-            12,
-            4,
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 07时37分]"
-        },
         {
           "title": "澳门乒乓球世界杯男单 1/4 决赛，王楚钦 1-3 连扳 3 局逆转达科晋级四强，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2023852847821844525",
           "source": "知乎",
           "ranks": [
-            3,
-            1,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时59分 ~ 23时35分]"
-        },
-        {
-          "title": "2026 澳门世界杯女单 1/4 决赛，孙颖莎 4-3 险胜高达，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2023761963512063663",
-          "source": "知乎",
-          "ranks": [
-            12,
-            5,
-            9,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时11分 ~ 19时31分]"
-        },
-        {
-          "title": "乒乓球世界杯男单四分之一决赛，林昀儒 4:1 击败张本智和，挺进男单四强，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2023742563748692074",
-          "source": "知乎",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时11分 ~ 16时43分]"
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
           "title": "澳门乒乓球世界杯，王曼昱 4-2 桥本帆乃香晋级 4 强，如何评价这场比赛？",
@@ -70,7 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时34分 ~ 23时35分]"
+          "time_info": "[00时38分 ~ 00时39分]"
         }
       ]
     }

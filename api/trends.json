@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T13:58:47.895954+08:00",
-  "total_titles_processed": 892,
+  "generated_at": "2026-04-04T15:11:24.995437+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "乒乓世界杯 1/8 决赛，王楚钦最终以 4 比 2 战胜小勒布伦，如何评价本场比赛？",
@@ -20,6 +20,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 07时37分]"
+        },
+        {
+          "title": "乒乓球世界杯男单四分之一决赛，林昀儒 4:1 击败张本智和，挺进男单四强，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2023742563748692074",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "2026 澳门世界杯女单 1/4 决赛，孙颖莎 4-3 险胜高达，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2023761963512063663",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         }
       ]
     }

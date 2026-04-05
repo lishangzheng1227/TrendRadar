@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T16:46:37.384670+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-04-05T17:41:41.284231+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
@@ -26,20 +26,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 17时41分]"
         },
         {
           "title": "2026 澳门世界杯女单 半决赛，孙颖莎 4-0 战胜温特，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2024101077004428327",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 17时41分]"
         },
         {
           "title": "澳门乒乓球世界杯，王曼昱 4-2 桥本帆乃香晋级 4 强，如何评价这场比赛？",

@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-09T22:07:43.178517+08:00",
-  "total_titles_processed": 1720,
+  "generated_at": "2026-04-10T00:20:12.473075+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为云将于6月举办创想者大会 将重磅发布AI全系产品",
-          "url": "https://wallstreetcn.com/livenews/3084948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

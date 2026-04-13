@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-04-13T22:51:34.850588+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-04-14T00:15:34.232294+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据华为终端微博消息，华为阔折叠手机Pura X Max将于4月20日发布。",
-          "url": "https://wallstreetcn.com/livenews/3086600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

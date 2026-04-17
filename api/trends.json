@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T19:58:09.726357+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2026-04-17T21:44:11.569220+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
@@ -20,27 +20,29 @@
           "time_info": "[01时17分 ~ 07时54分]"
         },
         {
+          "title": "如何看待橘子海乐队向华为终端发布侵权声明，要求在 7 日之内赔偿道歉？",
+          "url": "https://www.zhihu.com/question/2028483142109996288",
+          "source": "知乎",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时57分 ~ 21时44分]"
+        },
+        {
           "title": "曝 iPhone Ultra 折叠屏手机量产延至 8 月初，秋季发布目标不变，对现有市场带来哪些冲击？",
           "url": "https://www.zhihu.com/question/15718177307",
           "source": "知乎",
           "ranks": [
             18,
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时58分 ~ 19时58分]"
-        },
-        {
-          "title": "如何看待橘子海乐队向华为终端发布侵权声明，要求在 7 日之内赔偿道歉？",
-          "url": "https://www.zhihu.com/question/2028483142109996288",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时57分 ~ 19时58分]"
+          "appearance_count": 5,
+          "time_info": "[18时58分 ~ 21时44分]"
         }
       ]
     },

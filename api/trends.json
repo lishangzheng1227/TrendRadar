@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T03:04:18.462741+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-04-18T04:49:12.112181+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 04时49分]"
         },
         {
           "title": "曝 iPhone Ultra 折叠屏手机量产延至 8 月初，秋季发布目标不变，对现有市场带来哪些冲击？",
@@ -28,8 +28,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 04时49分]"
         }
       ]
     }

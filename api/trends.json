@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-04-18T23:39:25.312642+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2026-04-19T00:43:26.678302+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待橘子海乐队向华为终端发布侵权声明，要求在 7 日之内赔偿道歉？",
-          "url": "https://www.zhihu.com/question/2028483142109996288",
-          "source": "知乎",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时05分 ~ 10时34分]"
-        },
-        {
-          "title": "曝 iPhone Ultra 折叠屏手机量产延至 8 月初，秋季发布目标不变，对现有市场带来哪些冲击？",
-          "url": "https://www.zhihu.com/question/15718177307",
-          "source": "知乎",
-          "ranks": [
-            10,
-            17,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 07时41分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

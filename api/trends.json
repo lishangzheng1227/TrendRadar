@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T07:41:24.105555+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-04-18T10:34:24.316486+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2028483142109996288",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 07时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 10时34分]"
         },
         {
           "title": "曝 iPhone Ultra 折叠屏手机量产延至 8 月初，秋季发布目标不变，对现有市场带来哪些冲击？",

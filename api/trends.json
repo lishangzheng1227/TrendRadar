@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-20T10:51:38.611324+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2026-04-20T13:44:09.446963+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "华为终端：华为Pura系列及全场景新品发布会将于今日14:30正式启幕。",
+          "url": "https://flash.jin10.com/detail/20260420130557474800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
         {
           "title": "华为智慧屏S7 Pro正式发布",
           "url": "https://flash.jin10.com/detail/20260420102044321800",
@@ -14,7 +25,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         }

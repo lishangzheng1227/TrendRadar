@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T01:59:57.767181+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-04-21T03:20:48.930218+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时20分]"
         },
         {
           "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时20分]"
         },
         {
           "title": "如何看待 4 月 20 日发布的华为 Pura X Max，有哪些创新，值得购买吗？",
@@ -38,8 +39,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 03时20分]"
         },
         {
           "title": "华为发布全新二合一耳机表",

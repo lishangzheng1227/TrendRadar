@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-04-27T23:52:56.130900+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2026-04-28T01:24:39.943107+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技记者古尔曼：苹果CEO蒂姆·库克正将一条实力雄厚的产品线移交给继任者约翰·特努斯，其中包括计划于九月发布的折叠屏iPhone。",
-          "url": "https://flash.jin10.com/detail/20260427024243091800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时51分 ~ 06时41分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

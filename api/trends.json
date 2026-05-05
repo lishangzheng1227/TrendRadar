@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-06T06:58:09.436360+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-05-06T07:55:01.076893+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 U17 亚洲杯首场比赛中国 U170:1 不敌印尼 U17？主教练的问题大么？",
+          "url": "https://www.zhihu.com/question/2035185742503261652",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

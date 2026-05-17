@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-17T14:46:45.183692+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-05-17T17:06:56.566190+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026 世界杯决赛首次增设中场秀，预计远超 15 分钟，如何看待此举？会影响球员表现与比赛节奏吗？",
+          "url": "https://www.zhihu.com/question/2038334795621586162",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

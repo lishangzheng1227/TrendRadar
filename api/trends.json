@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T12:43:40.231675+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-05-23T17:55:49.608011+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "U17 亚洲杯决赛，中国队 2-3 不敌日本队获得亚军，如何评价这场比赛？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "U17 亚洲杯决赛 u17 亚洲杯中国 2-3 日本获得亚军，如何评价本场比赛以及中国队的表现？",
+          "url": "https://www.zhihu.com/question/2041269244734562532",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         }
       ]
     }

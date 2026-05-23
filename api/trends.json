@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-05-23T23:02:51.137384+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2026-05-24T01:02:08.736465+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "U17 亚洲杯决赛，中国队 2-3 不敌日本队获得亚军，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2041148960480257581",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
-        },
-        {
-          "title": "U17 亚洲杯决赛 u17 亚洲杯中国 2-3 日本获得亚军，如何评价本场比赛以及中国队的表现？",
-          "url": "https://www.zhihu.com/question/2041269244734562532",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "U17 亚洲杯决赛中国 2-3 日本获得亚军，如何评价本场比赛以及中国队的表现？",
-          "url": "https://www.zhihu.com/question/2041269244734562532",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

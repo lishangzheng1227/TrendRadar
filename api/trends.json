@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T05:09:36.317482+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-05-26T07:05:29.505137+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时05分]"
         },
         {
           "title": "何庭波署名论文发布，详解刷屏的华为“芯”技术",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时05分]"
         }
       ]
     }

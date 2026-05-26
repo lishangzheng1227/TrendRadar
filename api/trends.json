@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-05-26T23:34:57.435022+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-05-27T02:27:51.894617+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "华为发布“韬定律”，有哪些技术方向值得关注？",
-          "url": "https://www.cls.cn/detail/2380668",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时05分]"
-        },
-        {
-          "title": "何庭波署名论文发布，详解刷屏的华为“芯”技术",
-          "url": "https://wallstreetcn.com/articles/3773031",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 11时41分]"
-        }
-      ]
-    },
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
       "match_count": 1,
@@ -42,9 +14,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时34分"
+          "time_info": "02时27分"
         }
       ]
     }

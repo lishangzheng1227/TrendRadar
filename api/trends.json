@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T06:21:16.676312+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-05-27T08:07:02.001519+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时27分 ~ 06时21分]"
+        },
+        {
+          "title": "世界杯伊朗男足仅比赛日跨境赴美",
+          "url": "https://www.toutiao.com/trending/7643344386417115142/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         }
       ]
     }

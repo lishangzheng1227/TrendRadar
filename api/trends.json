@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-06-14T22:06:13.014142+08:00",
-  "total_titles_processed": 1080,
+  "generated_at": "2026-06-15T00:23:50.329077+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "2026 年世界杯小组赛 D 组，巴西 1 比 1 摩洛哥，无缘开门红，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048794857506698964",
-          "source": "知乎",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 16时42分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 B 组，卡塔尔 vs 瑞士，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048794573590065913",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 D 组，澳大利亚 2-0 土耳其，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048795322877309032",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 D 组，巴西 vs 摩洛哥，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048794857506698964",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

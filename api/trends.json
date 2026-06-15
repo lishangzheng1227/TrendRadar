@@ -1,79 +1,22 @@
 {
-  "generated_at": "2026-06-15T21:16:14.707149+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-06-16T02:27:58.811453+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "2026 年世界杯小组赛 E 组，德国 vs 库拉索，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048795584941617877",
+          "title": "2026 年美加墨世界杯小组赛 H 组，西班牙 vs 佛得角，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2049905235586281786",
           "source": "知乎",
           "ranks": [
-            18,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时15分 ~ 06时13分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 E 组，德国 7-1 库拉索，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048795584941617877",
-          "source": "知乎",
-          "ranks": [
-            2
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时12分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 F 组，荷兰 2-2 日本，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048795761760891379",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时12分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 F 组，荷兰 vs 日本，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048795761760891379",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 06时13分]"
-        },
-        {
-          "title": "伊朗足球队抵达美国洛杉矶，备战周一与新西兰的世界杯比赛。",
-          "url": "https://flash.jin10.com/detail/20260615041610447800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时13分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 F 组，瑞典 5-1 突尼斯，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048796260526551503",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
+          "time_info": "02时27分"
         }
       ]
     }

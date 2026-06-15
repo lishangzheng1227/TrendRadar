@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-16T05:44:59.035777+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-06-16T07:47:15.659540+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "2026 年美加墨世界杯小组赛 H 组，西班牙 0-0 佛得角，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2049905235586281786",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 07时47分]"
+        },
         {
           "title": "2026 年美加墨世界杯小组赛 H 组，西班牙 vs 佛得角，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2049905235586281786",
@@ -26,7 +37,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         }

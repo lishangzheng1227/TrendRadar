@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-06-16T02:27:58.811453+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-16T05:44:59.035777+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2026 年美加墨世界杯小组赛 H 组，西班牙 vs 佛得角，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2049905235586281786",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 05时44分]"
+        },
+        {
+          "title": "2026 年美加墨世界杯小组赛 G 组，比利时 vs 埃及，如何评竞价本场比赛？",
+          "url": "https://www.zhihu.com/question/2049905516860498644",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时27分"
+          "time_info": "05时44分"
         }
       ]
     }

@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-20T05:17:12.004461+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-06-20T07:01:18.431963+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026 年世界杯小组赛 D 组，美国 vs 澳大利亚，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050229738019320012",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 07时01分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

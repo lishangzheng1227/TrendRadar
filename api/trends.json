@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-19T08:28:41.751999+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-06-19T14:22:26.114854+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "2026 年世界杯小组赛 A 组，墨西哥 1:0 韩国，韩国门将失误孙兴慜 0 射门，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050229431092733522",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
         {
           "title": "世界杯小组赛第一轮比赛结束",
           "url": "https://www.douyin.com/hot/2539722",
@@ -21,6 +32,19 @@
           "time_info": "[01时05分 ~ 08时28分]"
         },
         {
+          "title": "美国世界杯比赛现场美食",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%BE%8E%E9%A3%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 14时22分]"
+        },
+        {
           "title": "2026 年世界杯小组赛 A 组，捷克 vs 南非，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2050228634908976991",
           "source": "知乎",
@@ -33,16 +57,15 @@
           "time_info": "[03时39分 ~ 06时13分]"
         },
         {
-          "title": "美国世界杯比赛现场美食",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%BE%8E%E9%A3%9F",
-          "source": "bilibili 热搜",
+          "title": "2026 年世界杯小组赛 B 组，加拿大 6-0 卡塔尔，加拿大队科内小腿重伤折断，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050229300993814782",
+          "source": "知乎",
           "ranks": [
-            27,
-            21
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 06时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         }
       ]
     }

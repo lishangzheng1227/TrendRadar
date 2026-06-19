@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T06:13:24.561222+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-06-19T08:28:41.751999+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 08时28分]"
         },
         {
           "title": "2026 年世界杯小组赛 A 组，捷克 vs 南非，如何评价本场比赛？",

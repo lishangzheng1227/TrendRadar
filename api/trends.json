@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-20T07:01:18.431963+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-06-20T08:17:34.546023+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "世界杯小组赛 D 组，美国 2 比 0 澳大利亚，提前一轮小组出线，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050229738019320012",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
         {
           "title": "2026 年世界杯小组赛 D 组，美国 vs 澳大利亚，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2050229738019320012",

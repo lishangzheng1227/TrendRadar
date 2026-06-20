@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T19:57:40.951531+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-06-20T22:12:15.463258+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时57分]"
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 22时12分]"
         },
         {
           "title": "世界杯小组赛 D 组，美国 2 比 0 澳大利亚，提前一轮小组出线，如何评价本场比赛？",

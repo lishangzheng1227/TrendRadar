@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T05:16:29.608439+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-06-22T07:15:53.825137+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2026 年世界杯小组赛 F 组，突尼斯 0-4 日本，如何评价本场比赛？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 03时44分]"
+        },
+        {
+          "title": "2026 年世界杯小组赛 H 组，西班牙 4-0 沙特阿拉伯，升小组第一，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050231491490047949",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
         },
         {
           "title": "2026 年世界杯小组赛 H 组，西班牙 vs 沙特阿拉伯，如何评价本场比赛？",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T03:44:13.440415+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-06-22T05:16:29.608439+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 03时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 05时16分]"
         },
         {
           "title": "世界杯史上第1000场比赛，日本4比0突尼斯",
@@ -39,8 +40,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 03时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 05时16分]"
         }
       ]
     }

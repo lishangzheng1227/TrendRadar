@@ -1,92 +1,33 @@
 {
-  "generated_at": "2026-06-22T23:53:20.114824+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-06-23T03:31:30.807580+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "2026 年世界杯小组赛 H 组，乌拉圭 2-2 佛得角，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050231811406394080",
-          "source": "知乎",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 18时40分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 F 组，突尼斯 0-4 日本，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050231270332789671",
-          "source": "知乎",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 03时44分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 H 组，西班牙 4-0 沙特阿拉伯，升小组第一，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050231491490047949",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
         {
           "title": "央视直播世界杯日本 vs 突尼斯比赛收视率超 3%，这是什么水平？可能受哪些因素影响？",
           "url": "https://www.zhihu.com/question/2052060271871353728",
           "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 H 组，西班牙 vs 沙特阿拉伯，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050231491490047949",
-          "source": "知乎",
-          "ranks": [
-            19,
-            9,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 05时16分]"
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 03时31分]"
         },
         {
-          "title": "世界杯史上第1000场比赛，日本4比0突尼斯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33423457",
-          "source": "澎湃新闻",
+          "title": "哈兰德迎世界杯小组赛第二轮比赛",
+          "url": "https://www.douyin.com/hot/2543486",
+          "source": "抖音",
           "ranks": [
-            19
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时40分 ~ 05时16分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 G 组，新西兰 1-3 埃及，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050231958295110913",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 03时31分]"
         }
       ]
     }

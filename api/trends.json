@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T13:02:50.957077+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-06-23T17:42:23.553825+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -41,6 +41,19 @@
           "time_info": "[03时30分 ~ 08时08分]"
         },
         {
+          "title": "世界杯小组赛 J 组，阿根廷 2-0 奥地利，提前一轮小组出线，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2052453572957003855",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 17时42分]"
+        },
+        {
           "title": "央视直播世界杯日本 vs 突尼斯比赛收视率超 3%，这是什么水平？可能受哪些因素影响？",
           "url": "https://www.zhihu.com/question/2052060271871353728",
           "source": "知乎",
@@ -51,18 +64,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时30分 ~ 06时04分]"
-        },
-        {
-          "title": "世界杯小组赛 J 组，阿根廷 2-0 奥地利，提前一轮小组出线，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2052453572957003855",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 13时02分]"
         },
         {
           "title": "姆巴佩16场世界杯比赛打入15球",

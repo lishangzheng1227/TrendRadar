@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-23T08:08:41.349725+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-06-23T13:02:50.957077+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "法国 3-0 完胜伊拉克，提前晋级世界杯 32 强，姆巴佩梅开二度，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2052453821125582926",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
         {
           "title": "世界杯小组赛 I 组，法国 vs 伊拉克，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2052453821125582926",
@@ -14,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -46,11 +57,12 @@
           "url": "https://www.zhihu.com/question/2052453572957003855",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 13时02分]"
         },
         {
           "title": "姆巴佩16场世界杯比赛打入15球",
@@ -59,7 +71,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T17:42:23.553825+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-06-23T20:34:47.578809+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "法国 3-0 完胜伊拉克，提前晋级世界杯 32 强，姆巴佩梅开二度，如何评价本场比赛？",
@@ -75,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "哈兰德世界杯连场梅开二度，怎样评价他的状态？他有机会争夺本届比赛的金靴吗？",
+          "url": "https://www.zhihu.com/question/2052687590860354958",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     }

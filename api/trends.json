@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-24T06:15:20.965910+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-06-24T08:00:11.722308+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "世界杯小组赛 K 组，葡萄牙 5-0 乌兹别克斯坦，C 罗双响创纪录，B 费造两球，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2052725785111311031",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
+        },
         {
           "title": "世界杯小组赛 K 组，葡萄牙 vs 乌兹别克斯坦，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2052725785111311031",
@@ -24,11 +35,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33435654",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 08时00分]"
+        },
+        {
+          "title": "世界杯小组赛 L 组，英格兰 0-0 加纳，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2052726892273329148",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时00分]"
         }
       ]
     }

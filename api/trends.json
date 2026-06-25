@@ -1,71 +1,22 @@
 {
-  "generated_at": "2026-06-25T21:21:04.489245+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-06-26T00:27:02.538846+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "世界杯小组赛 C 组，巴西 3-0 战胜苏格兰头名出线，内马尔替补登场，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2053071755242103665",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "世界杯小组赛 A 组，南非 1-0 韩国，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2053071920468439136",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
         {
           "title": "头条世界杯｜50场比赛打进148球，B组基本锁定三队出线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33449066",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 21时21分]"
-        },
-        {
-          "title": "世界杯小组赛 A 组，南非 1-0 韩国，首次晋级淘汰赛，韩国小组第三出线待定，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2053071920468439136",
-          "source": "知乎",
-          "ranks": [
-            4,
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时44分 ~ 18时44分]"
-        },
-        {
-          "title": "如何看待本次美国世界杯场馆没有遮雨棚，比赛期间暴雨所有观众和媒体都被惨浇，不装顶棚是因为气候还是成本？",
-          "url": "https://www.zhihu.com/question/2052696986457827081",
-          "source": "知乎",
-          "ranks": [
-            6,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时05分 ~ 15时44分]"
+          "time_info": "[00时26分 ~ 00时27分]"
         }
       ]
     }

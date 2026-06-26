@@ -1,56 +1,22 @@
 {
-  "generated_at": "2026-06-26T21:13:51.222887+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-06-27T00:19:12.725819+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "头条世界杯｜50场比赛打进148球，B组基本锁定三队出线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33449066",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "世界杯小组赛 E 组，厄瓜多尔 2-1 逆转德国，小组第三出线，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2053447637047818182",
+          "title": "世界杯小组赛 I 组，挪威 vs 法国，如何评价本场比赛？哈兰德和姆巴佩会上演进球大战吗？",
+          "url": "https://www.zhihu.com/question/2053791037974483526",
           "source": "知乎",
           "ranks": [
-            3
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
-          "title": "世界杯小组赛 E 组，厄瓜多尔 vs 德国，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2053447637047818182",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "世界杯小组赛 F 组，日本 1-1 瑞典，埃兰加精彩世界波，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2053452665523279859",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时52分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
         }
       ]
     }

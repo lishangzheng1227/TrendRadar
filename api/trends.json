@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T07:20:16.962039+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-06-26T11:52:43.646335+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "头条世界杯｜50场比赛打进148球，B组基本锁定三队出线",
@@ -20,15 +20,37 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "世界杯小组赛 E 组，厄瓜多尔 2-1 逆转德国，小组第三出线，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053447637047818182",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        },
+        {
           "title": "世界杯小组赛 E 组，厄瓜多尔 vs 德国，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2053447637047818182",
           "source": "知乎",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "世界杯小组赛 F 组，日本 1-1 瑞典，埃兰加精彩世界波，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053452665523279859",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         }
       ]
     }

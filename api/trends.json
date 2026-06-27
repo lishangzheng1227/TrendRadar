@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T18:11:08.275670+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-06-27T20:10:32.974135+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2053875905722672839",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 18时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 20时10分]"
         },
         {
           "title": "世界杯小组赛 I 组，挪威 vs 法国，如何评价本场比赛？哈兰德和姆巴佩会上演进球大战吗？",

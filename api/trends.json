@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T08:09:58.347872+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-06-27T12:54:54.115625+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "世界杯小组赛 I 组，挪威 vs 法国，如何评价本场比赛？哈兰德和姆巴佩会上演进球大战吗？",
@@ -28,9 +28,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "世界杯小组赛 H 组，佛得角 0-0 战平沙特阿拉伯，淘汰赛将对阵阿根廷，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053875905722672839",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "世界杯小组赛 H 组，西班牙 1-0 送乌拉圭出局，巴埃纳制胜，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053790289446414292",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "世界杯小组赛 I 组，法国 4 比 1 挪威，登贝莱半场帽子戏法，哈兰德姆巴佩王不见王，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053791037974483526",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     },
@@ -45,11 +78,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 06时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时53分 ~ 12时54分]"
         }
       ]
     }

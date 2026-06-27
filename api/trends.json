@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T15:51:32.435132+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-06-27T18:11:08.275670+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 15时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 18时11分]"
         },
         {
           "title": "世界杯小组赛 I 组，挪威 vs 法国，如何评价本场比赛？哈兰德和姆巴佩会上演进球大战吗？",
@@ -61,7 +61,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },

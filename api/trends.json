@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T16:54:47.887268+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-06-28T19:09:14.176749+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英格兰 2-0 击败巴拿马，小组头名出线，凯恩独享英格兰队史世界杯射手王，如何评价本场比赛？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 13时18分]"
+        },
+        {
+          "title": "德法或提前相遇！美加墨世界杯32强对阵表、比赛时间来了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470810",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         }
       ]
     }

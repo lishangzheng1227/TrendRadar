@@ -1,35 +1,22 @@
 {
-  "generated_at": "2026-06-29T22:06:02.998469+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-06-30T01:39:04.891410+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "德法或提前相遇！美加墨世界杯32强对阵表、比赛时间来了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470810",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 12时04分]"
-        },
-        {
-          "title": "世界杯淘汰赛 1/16 决赛，南非 vs 加拿大，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2054574083774181998",
+          "title": "世界杯 1/16 决赛，巴西 vs 日本，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2054881323324651014",
           "source": "知乎",
           "ranks": [
-            7
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 01时39分]"
         }
       ]
     }

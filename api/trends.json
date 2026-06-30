@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T07:01:57.036923+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2026-06-30T08:15:54.238321+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "世界杯 1/16 决赛，巴西 vs 日本，如何评价本场比赛？",
@@ -31,6 +31,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 07时01分]"
+        },
+        {
+          "title": "世界杯 1/16 决赛，巴西 2-1 绝杀日本，日本队史世界杯淘汰赛仍 0 胜，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2054881323324651014",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "世界杯淘汰赛 1/16 决赛，德国点球大战 4-5 遭巴拉圭淘汰，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2054885142036833997",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         }
       ]
     }

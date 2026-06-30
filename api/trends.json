@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T17:38:55.320138+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-06-30T20:10:42.057080+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 17时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 20时10分]"
         },
         {
           "title": "世界杯淘汰赛 1/16 决赛，德国点球大战 4-5 遭巴拉圭淘汰，如何评价本场比赛？",

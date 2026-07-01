@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:15:36.788400+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-07-01T12:04:02.078367+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "世界杯 1/16 决赛，科特迪瓦 vs 挪威，如何评价本场比赛？",
@@ -21,13 +21,24 @@
           "time_info": "[04时01分 ~ 07时15分]"
         },
         {
+          "title": "世界杯 1/16 决赛，法国 3-0 淘汰瑞典，姆巴佩双响、世界杯 18 场 18 球，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055237822475408966",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 12时04分]"
+        },
+        {
           "title": "世界杯 1/16 决赛，法国 vs 瑞典，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2055237822475408966",
           "source": "知乎",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }

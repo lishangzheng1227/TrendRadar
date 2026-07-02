@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T08:09:24.802959+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-07-02T12:59:03.361264+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "世界杯 1/16 决赛，英格兰 vs 刚果金，如何评价本场比赛？",
@@ -21,13 +21,24 @@
           "time_info": "[01时58分 ~ 06时19分]"
         },
         {
+          "title": "世界杯淘汰赛德国与巴拉圭比赛看台出现大量空座，具体原因是什么？",
+          "url": "https://www.zhihu.com/question/2055271796257939479",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "世界杯 1/16 决赛，英格兰 2-1 逆转刚果金，凯恩梅开二度，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2055624616605922427",
           "source": "知乎",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -38,9 +49,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "世界杯 1/16 决赛，美国 2-0 波黑，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055662320273942290",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "世界杯 1/16 决赛，比利时 vs 塞内加尔，如何评价本场比赛？",

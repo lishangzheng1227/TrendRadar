@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T22:08:02.463010+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-07-04T00:25:54.915646+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "头条世界杯｜不用进球就能统治比赛，亚马尔帮西班牙重回热门",
@@ -15,52 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时42分 ~ 22时08分]"
-        },
-        {
-          "title": "世界杯 1/16 决赛，西班牙 3-0 奥地利，奥亚萨瓦尔梅开二度，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2055966557797455598",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 08时07分]"
-        },
-        {
-          "title": "世界杯 1/16 决赛，葡萄牙 vs 克罗地亚，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2055965979767732019",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 08时07分]"
-        },
-        {
-          "title": "世界杯 1/16 决赛，葡萄牙 2-1 克罗地亚，C 罗进球被吹 + 点射破门，拉莫斯绝杀，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2055965979767732019",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "美加墨世界杯 1/16 葡萄牙 vs 克罗地亚，2 比 1 淘汰了克罗地亚，大家怎么看这场比赛？",
-          "url": "https://www.zhihu.com/question/2056305323284117390",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
+          "time_info": "00时25分"
         }
       ]
     }

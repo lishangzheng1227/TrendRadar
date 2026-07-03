@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-07-03T06:08:29.395061+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-07-03T08:07:11.528645+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "世界杯 1/16 决赛，西班牙 3-0 奥地利，奥亚萨瓦尔梅开二度，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055966557797455598",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "世界杯 1/16 决赛，葡萄牙 vs 克罗地亚，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055965979767732019",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-05T00:03:53.421046+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-05T02:02:43.635351+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iPhone 华为 OPPO",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
+          "url": "https://wallstreetcn.com/articles/3776195",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

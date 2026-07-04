@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T15:47:50.475491+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-07-04T18:11:53.026850+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 15时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 18时11分]"
         },
         {
           "title": "世界杯 1/16 决赛，埃及点球 5-3 澳大利亚，澳大利亚 119 分钟换门将，埃及 4 罚全中，如何评价本场比赛？",
@@ -71,7 +72,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         }
@@ -79,7 +80,7 @@
     },
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为何庭波发布 V2 版“韬定律”论文 补充工程细节和实测数据",
@@ -88,9 +89,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "华为发布V2版韬定律论文",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83V2%E7%89%88%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%AE%BA%E6%96%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "华为何庭波发布V2版“韬定律”论文，补充工程细节和实测数据",
@@ -99,7 +111,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         }

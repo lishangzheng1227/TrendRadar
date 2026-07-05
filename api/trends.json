@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T15:27:52.192229+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-07-05T18:15:09.035947+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 18时15分]"
         },
         {
           "title": "美加墨世界杯16强产生（附对阵图、比赛时间）",
@@ -48,6 +49,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
+          "url": "https://www.cls.cn/detail/2417200",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 18时15分]"
+        },
+        {
           "title": "华为何庭波发布V2版“韬定律”论文 补充工程细节和实测数据",
           "url": "https://wallstreetcn.com/articles/3776195",
           "source": "华尔街见闻",
@@ -59,17 +72,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时02分 ~ 11时32分]"
-        },
-        {
-          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
-          "url": "https://www.cls.cn/detail/2417200",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 15时27分]"
         }
       ]
     }

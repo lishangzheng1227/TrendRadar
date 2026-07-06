@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T06:03:40.915257+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-07-06T08:07:29.639230+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,29 @@
           "url": "https://www.cls.cn/detail/2417200",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时10分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时10分 ~ 08时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "世界杯 欧洲杯 亚洲杯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "世界杯 1/8 决赛，巴西 1-2 挪威止步十六强，哈兰德进两球，内马尔点球破门，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2057080646317466862",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         }
       ]
     }

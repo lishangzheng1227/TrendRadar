@@ -1,74 +1,22 @@
 {
-  "generated_at": "2026-07-06T22:27:13.900061+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-07-07T01:45:25.536066+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
-          "url": "https://www.cls.cn/detail/2417200",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 08时07分]"
-        },
-        {
-          "title": "华为何庭波发布 v2 版「韬定律」论文，补充工程细节和实测数据，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2056736081148748715",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 18时25分]"
-        },
-        {
-          "title": "“最懂苹果分析师”郭明錤：折叠屏iPhone或“联合发布但推迟上市，年底前供货紧张”",
-          "url": "https://wallstreetcn.com/articles/3776239",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "世界杯 1/8 决赛，巴西 1-2 挪威止步十六强，哈兰德进两球，内马尔点球破门，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2057080646317466862",
+          "title": "世界杯 1/8 决赛，葡萄牙 vs 西班牙，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2057413304579051709",
           "source": "知乎",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 13时13分]"
-        },
-        {
-          "title": "险胜！世界杯 1/8 决赛，十人英格兰 3-2 淘汰墨西哥，贝林双响凯恩点射 + 送点宽萨直红，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2056755385696871724",
-          "source": "知乎",
-          "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "01时45分"
         }
       ]
     }

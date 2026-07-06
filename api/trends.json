@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T13:13:29.892824+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-07-06T18:25:16.122640+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
@@ -24,11 +24,23 @@
           "url": "https://www.zhihu.com/question/2056736081148748715",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 18时25分]"
+        },
+        {
+          "title": "“最懂苹果分析师”郭明錤：折叠屏iPhone或“联合发布但推迟上市，年底前供货紧张”",
+          "url": "https://wallstreetcn.com/articles/3776239",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
         }
       ]
     },
@@ -54,7 +66,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         }

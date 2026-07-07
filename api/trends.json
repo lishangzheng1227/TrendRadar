@@ -1,68 +1,22 @@
 {
-  "generated_at": "2026-07-07T21:24:21.991234+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-07-08T00:33:11.991790+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "2026 年美加墨世界杯世界杯 1/8 决赛葡萄牙 0:1 西班牙，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2057660831299638506",
+          "title": "世界杯 1/8 决赛，阿根廷 vs 埃及，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2057777297399321503",
           "source": "知乎",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时09分 ~ 07时10分]"
-        },
-        {
-          "title": "世界杯 1/8 决赛比利时 4-1 美国，至此 3 个东道主全部出局，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2057413355376227594",
-          "source": "知乎",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 18时58分]"
-        },
-        {
-          "title": "世界杯 1/8 决赛，葡萄牙 vs 西班牙，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2057413304579051709",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时10分]"
-        },
-        {
-          "title": "世界杯 1/8 决赛，西班牙 1-0 淘汰葡萄牙，C 罗结束世界杯征程，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2057413304579051709",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "世界杯只剩最后10场比赛",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%AA%E5%89%A9%E6%9C%80%E5%90%8E10%E5%9C%BA%E6%AF%94%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
+          "time_info": "[00时32分 ~ 00时33分]"
         }
       ]
     }

@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-07T15:40:26.017476+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-07-07T18:58:56.671973+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
       "match_count": 5,
       "titles": [
-        {
-          "title": "世界杯 1/8 决赛比利时 4-1 美国，至此 3 个东道主全部出局，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2057413355376227594",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 15时40分]"
-        },
         {
           "title": "2026 年美加墨世界杯世界杯 1/8 决赛葡萄牙 0:1 西班牙，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2057660831299638506",
@@ -28,6 +17,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时09分 ~ 07时10分]"
+        },
+        {
+          "title": "世界杯 1/8 决赛比利时 4-1 美国，至此 3 个东道主全部出局，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2057413355376227594",
+          "source": "知乎",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 18时58分]"
         },
         {
           "title": "世界杯 1/8 决赛，葡萄牙 vs 西班牙，如何评价本场比赛？",
@@ -59,7 +60,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         }

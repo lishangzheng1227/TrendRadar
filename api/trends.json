@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-08T13:53:43.616653+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-07-08T16:32:40.052720+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
       "match_count": 6,
       "titles": [
+        {
+          "title": "如何看待 2026 年世界杯 1/8 阿根廷对埃及比赛最后 5 分钟内，主裁判不吹罚阿根廷队禁区犯规？",
+          "url": "https://www.zhihu.com/question/2058011125409699747",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 16时32分]"
+        },
         {
           "title": "世界杯 1/8 决赛，阿根廷 vs 埃及，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2057777297399321503",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 07时03分]"
-        },
-        {
-          "title": "如何看待 2026 年世界杯 1/8 阿根廷对埃及比赛最后 5 分钟内，主裁判不吹罚阿根廷队禁区犯规？",
-          "url": "https://www.zhihu.com/question/2058011125409699747",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 13时53分]"
         },
         {
           "title": "2026 年美加墨世界杯 1/8 决赛阿根廷 3:2 埃及，如何评价这场比赛？",
@@ -48,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 16时32分]"
         },
         {
           "title": "头条世界杯｜惊天逆转让阿根廷泪奔，埃及将帅抨击比赛被操控",
@@ -60,11 +61,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 16时32分]"
         },
         {
           "title": "世界杯 1/8 决赛，瑞士 4-3 哥伦比亚，如何评价本场比赛？",

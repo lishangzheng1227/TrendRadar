@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T19:06:27.573364+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-07-08T22:12:38.227972+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,21 @@
           "time_info": "[00时32分 ~ 07时03分]"
         },
         {
+          "title": "头条世界杯｜惊天逆转让阿根廷泪奔，埃及将帅抨击比赛被操控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539156",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时47分 ~ 22时12分]"
+        },
+        {
           "title": "2026 年美加墨世界杯 1/8 决赛阿根廷 3:2 埃及，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2057979001201766943",
           "source": "知乎",
@@ -55,20 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时47分 ~ 16时32分]"
-        },
-        {
-          "title": "头条世界杯｜惊天逆转让阿根廷泪奔，埃及将帅抨击比赛被操控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539156",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时47分 ~ 19时06分]"
         },
         {
           "title": "世界杯 1/8 决赛，瑞士 4-3 哥伦比亚，如何评价本场比赛？",
@@ -94,7 +95,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         }

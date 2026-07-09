@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T20:06:30.484654+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-07-09T23:32:31.057992+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "头条世界杯｜惊天逆转让阿根廷泪奔，埃及将帅抨击比赛被操控",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时53分 ~ 06时07分]"
+        },
+        {
+          "title": "世界杯 1/4 决赛，法国 vs 摩洛哥，双方时隔四年再度会师淘汰赛，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2058142880246523378",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     }

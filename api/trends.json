@@ -1,47 +1,22 @@
 {
-  "generated_at": "2026-07-10T21:13:19.127472+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-07-11T00:26:45.151067+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "世界杯 1/4 决赛，法国 vs 摩洛哥，双方时隔四年再度会师淘汰赛，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2058142880246523378",
+          "title": "世界杯 1/4 决赛，西班牙 vs 比利时，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2058965616472450804",
           "source": "知乎",
           "ranks": [
-            7,
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 07时13分]"
-        },
-        {
-          "title": "法国 2-0 摩洛哥晋级世界杯四强，姆巴佩传射 + 失点，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2058142880246523378",
-          "source": "知乎",
-          "ranks": [
-            1
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "如何看待 Archivo VAR 认为 2026 世界杯法国 - 摩洛哥比赛中姆巴佩点球系误判，应给假摔黄牌？",
-          "url": "https://www.zhihu.com/question/2058796272027542564",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 15时38分]"
+          "time_info": "00时26分"
         }
       ]
     }

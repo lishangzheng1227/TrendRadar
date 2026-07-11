@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T21:22:08.848953+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-07-11T22:55:46.435906+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "西班牙 2-1 比利时晋级世界杯半决赛，梅里诺替补绝杀，拉门斯送礼，如何评价本场比赛？",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时14分 ~ 21时22分]"
+        },
+        {
+          "title": "世界杯 1/4 决赛，挪威 vs 英格兰，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2059262837763961209",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         }
       ]
     }

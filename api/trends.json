@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:11:21.079238+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-07-12T21:22:29.129220+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "[14时05分 ~ 19时11分]"
         },
         {
+          "title": "世界前四齐聚世界杯四强（附对阵图、比赛时间）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33569729",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 21时22分]"
+        },
+        {
           "title": "世界杯 1/4 决赛，贝林厄姆补射破门连场双响，英格兰 2-1 逆转挪威，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2059262837763961209",
           "source": "知乎",
@@ -55,27 +67,30 @@
           "time_info": "[10时54分 ~ 10时55分]"
         },
         {
-          "title": "世界前四齐聚世界杯四强（附对阵图、比赛时间）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33569729",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 19时11分]"
-        },
-        {
           "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
           "url": "https://www.zhihu.com/question/2059608160646555311",
           "source": "知乎",
           "ranks": [
             15,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时05分 ~ 19时11分]"
+          "appearance_count": 5,
+          "time_info": "[14时05分 ~ 21时22分]"
+        },
+        {
+          "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
+          "url": "https://www.zhihu.com/question/2059562876868583536",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 21时22分]"
         },
         {
           "title": "世界杯半决赛对阵图和比赛时间",
@@ -88,18 +103,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时05分 ~ 17时03分]"
-        },
-        {
-          "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
-          "url": "https://www.zhihu.com/question/2059562876868583536",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 19时11分]"
         }
       ]
     }

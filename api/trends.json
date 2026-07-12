@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T01:59:50.671533+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-07-13T03:18:21.626767+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时18分]"
         },
         {
           "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
@@ -27,8 +27,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时18分]"
         }
       ]
     }

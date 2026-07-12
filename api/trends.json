@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T10:55:16.427841+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-07-12T14:06:05.605161+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "世界杯 1/4 决赛，挪威 vs 英格兰，如何评价本场比赛？",
@@ -33,6 +33,17 @@
           "time_info": "[10时54分 ~ 10时55分]"
         },
         {
+          "title": "世界杯 1/4 决赛，阿根廷加时 3-1 瑞士进 4 强，小蜘蛛破门恩博洛假摔染红，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2059262997873124815",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 14时06分]"
+        },
+        {
           "title": "世界杯 1/4 决赛，阿根廷 vs 瑞士， 如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2059262997873124815",
           "source": "知乎",
@@ -42,6 +53,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
+          "url": "https://www.zhihu.com/question/2059608160646555311",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 14时06分]"
+        },
+        {
+          "title": "世界杯半决赛对阵图和比赛时间",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E5%9B%BE%E5%92%8C%E6%AF%94%E8%B5%9B%E6%97%B6%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 14时06分]"
         }
       ]
     }

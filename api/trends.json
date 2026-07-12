@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T21:22:29.129220+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-07-12T22:58:29.253821+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 21时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 22时58分]"
         },
         {
           "title": "世界杯 1/4 决赛，贝林厄姆补射破门连场双响，英格兰 2-1 逆转挪威，如何评价本场比赛？",
@@ -86,11 +86,12 @@
           "ranks": [
             20,
             18,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 21时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 22时58分]"
         },
         {
           "title": "世界杯半决赛对阵图和比赛时间",

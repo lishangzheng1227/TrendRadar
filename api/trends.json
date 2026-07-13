@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T18:28:28.989643+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-07-13T22:14:41.307970+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "世界前四齐聚世界杯四强（附对阵图、比赛时间）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时03分 ~ 10时55分]"
+        },
+        {
+          "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
+          "url": "https://www.zhihu.com/question/2058981135892461058",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",

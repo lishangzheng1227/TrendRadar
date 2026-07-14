@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T20:14:55.214294+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-07-14T22:54:17.767138+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么世界杯淘汰的球队基本上都是立刻就回国了？可不可以看完所有比赛后再离开？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 07时02分]"
+        },
+        {
+          "title": "世界杯半决赛，法国 vs 西班牙，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2060325379596933035",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
         }
       ]
     }

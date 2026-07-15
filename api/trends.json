@@ -1,62 +1,7 @@
 {
-  "generated_at": "2026-07-15T22:52:17.289562+08:00",
-  "total_titles_processed": 1662,
+  "generated_at": "2026-07-16T00:23:50.124486+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "世界杯半决赛，法国 vs 西班牙，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2060325379596933035",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时04分]"
-        },
-        {
-          "title": "西班牙 2-0 法国，晋级世界杯决赛，亚马尔造点、姆巴佩哑火，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2060325379596933035",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时32分 ~ 13时33分]"
-        },
-        {
-          "title": "2026 年美加墨世界杯世界杯半决赛法国 0:2 西班牙，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2060590007564363522",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "美加墨世界杯半决赛法国 0:2 西班牙，德尚结束了他执教法国的最后一场比赛，你如何评价他的执教十四年？",
-          "url": "https://www.zhihu.com/question/2060603002055087744",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T10:33:00.583479+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-07-15T13:33:40.408467+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://www.zhihu.com/question/2060325379596933035",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 13时33分]"
         },
         {
           "title": "2026 年美加墨世界杯世界杯半决赛法国 0:2 西班牙，如何评价这场比赛？",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T07:59:59.821952+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-07-16T11:28:15.797257+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "世界杯半决赛，英格兰 vs 阿根廷，如何评价本场比赛？",
@@ -21,13 +21,24 @@
           "time_info": "[02时09分 ~ 06时03分]"
         },
         {
+          "title": "世界杯半决赛，阿根廷 7 分钟两球 2-1 绝杀英格兰，劳塔罗恩佐破门，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2060732712101716234",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
           "title": "世界杯半决赛，阿根廷 2-1 英格兰，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2060732712101716234",
           "source": "知乎",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         }

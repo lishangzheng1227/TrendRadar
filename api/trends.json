@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-07-17T23:15:26.100629+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2026-07-18T01:14:47.996265+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2026 世界杯决赛，西班牙 vs 阿根廷，这场比赛结果会如何，是西班牙时隔多年再问鼎，还是阿根廷成功卫冕？",
-          "url": "https://www.zhihu.com/question/2060979028366988938",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 06时12分]"
-        },
-        {
-          "title": "阿根廷三场世界杯比赛都在即将终场前逆转赛局，这是啥战术安排吗？他们是怎么做到稳住心态逆风翻盘的？",
-          "url": "https://www.zhihu.com/question/2061173953381361461",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 19时23分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

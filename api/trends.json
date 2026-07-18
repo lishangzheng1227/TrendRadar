@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T22:54:32.098103+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-07-18T23:58:59.853873+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "EWC 英雄联盟电竞世界杯淘汰赛 T1 2:0 战胜 MSI 冠军 HLE，如何评价这场比赛？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时11分 ~ 05时57分]"
+        },
+        {
+          "title": "世界杯季军赛，法国 vs 英格兰，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2061740947776579179",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         }
       ]
     }

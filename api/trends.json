@@ -1,50 +1,7 @@
 {
-  "generated_at": "2026-07-19T22:57:26.688695+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2026-07-20T00:02:43.703722+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "世界杯季军赛，法国 vs 英格兰，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2061740947776579179",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 06时52分]"
-        },
-        {
-          "title": "世界杯季军赛，法国 4-6 英格兰，萨卡戴帽，姆巴佩双响创纪录，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2061740947776579179",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 10时49分]"
-        },
-        {
-          "title": "2026 年美加墨世界杯世界杯季军赛法国 4:6 英格兰，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2062039356462855793",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时01分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }

@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-19T18:36:11.130576+08:00",
-  "total_titles_processed": 1189,
-  "failed_sources": [],
+  "generated_at": "2026-07-19T20:01:29.075821+08:00",
+  "total_titles_processed": 1301,
+  "failed_sources": [
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "世界杯季军赛，法国 vs 英格兰，如何评价本场比赛？",
@@ -31,6 +33,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时55分 ~ 10时49分]"
+        },
+        {
+          "title": "2026 年美加墨世界杯世界杯季军赛法国 4:6 英格兰，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2062039356462855793",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 20时01分]"
         }
       ]
     }

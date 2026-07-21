@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-21T16:32:11.313374+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-07-21T19:10:11.263111+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "世界杯 欧洲杯 亚洲杯",
       "match_count": 2,
       "titles": [
+        {
+          "title": "数据复盘｜104场比赛后，48队世界杯改变了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33503168",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时52分 ~ 19时10分]"
+        },
         {
           "title": "西班牙中场罗德里获 2026 世界杯金球奖，怎样评价他在本届比赛中的表现？对于西班牙队有多重要？",
           "url": "https://www.zhihu.com/question/2062428579145540871",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "数据复盘｜104场比赛后，48队世界杯改变了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33503168",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 16时32分]"
         }
       ]
     }

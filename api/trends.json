@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-04T22:15:17.218664+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2026-08-05T01:06:47.708603+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iPhone 华为 OPPO",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OPPO A7 Pro Max正式发布，2199元起售",
-          "url": "https://wallstreetcn.com/livenews/3144605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
